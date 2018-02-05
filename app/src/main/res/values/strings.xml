@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SubBook</string>
+    <string name="edit_name">Enter your name</string>
+    <string name="date_started">Start date (yyyy-mm-dd)</string>
+    <string name="monthly_charge">Enter your monthly charge</string>
+    <string name="Comment">Enter your comment(up to 30)</string>
+</resources>
